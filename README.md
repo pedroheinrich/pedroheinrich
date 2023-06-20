@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="pedroheinrich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroheinrich" alt="pedroheinrich" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript & Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroheinrich](https://github.com/pedroheinrich)
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroheinrich&show_icons=true&locale=en&layout=compact" alt="pedroheinrich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroheinrich&show_icons=true&locale=en" alt="pedroheinrich" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroheinrich&" alt="pedroheinrich" /></p>
