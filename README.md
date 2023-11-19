@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="pedroheinrich" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning ** JavaScript, Python & C# **
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroheinrich](https://github.com/pedroheinrich)
 
