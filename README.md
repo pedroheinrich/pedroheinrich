@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="pedroheinrich" /> </p>
 
-<script src="https://tryhackme.com/badge/2765858"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/c4td0g.png" alt="TryHackMe">
 
 - 🌱 I’m currently learning ** JavaScript, Python & C# **
 
