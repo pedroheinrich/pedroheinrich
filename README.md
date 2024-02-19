@@ -5,7 +5,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/c4td0g.png" alt="TryHackMe">
 
-- 🌱 I’m currently learning ** JavaScript, Python & C# **
+- 🌱 I’m currently learning ** JavaScript, Python, JAVA & Cobol **
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroheinrich](https://github.com/pedroheinrich)
 
